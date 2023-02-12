@@ -18,7 +18,11 @@ Install the dependencies and devDependencies and start the server.
 > cd ../..
 > pip install -r requirements.txt
 ```
-
+## Test
+You can test the solution using the following command , one test should output ok status
+```sh
+python -m unittest     tests.tests.TestReadFromDb
+```
 ## Run
 
 Run ..
