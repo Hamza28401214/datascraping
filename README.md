@@ -59,3 +59,6 @@ your preferred browser.
 ```sh
 127.0.0.1:8000
 ```
+
+## logs
+App logs are stored in the logs/record.log file.
